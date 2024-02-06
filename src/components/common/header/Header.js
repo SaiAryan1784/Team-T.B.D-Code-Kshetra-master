@@ -44,12 +44,12 @@ const Header = () => {
               <Link to='/'>Home</Link>
             </li>
             <li>
-              <Link to='/courses'>Learning</Link>
+              <a href='https://react-template-one-pi.vercel.app/'>Learning</a>
             </li>
             <li>
               <Link to='index2.html'>Quiz</Link>
             </li>
-            <li > <Link to='/playground'>PlayGround</Link>
+            <li > <a href='https://worldtraveller-zldu.vercel.app/'>PlayGround</a>
             </li>
             <li>
               <Link to='/pricing'>MarketPlace</Link>
