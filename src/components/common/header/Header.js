@@ -49,10 +49,10 @@ const Header = () => {
             <li>
               <Link to='index2.html'>Quiz</Link>
             </li>
-            <li > <a href='https://worldtraveller-zldu.vercel.app/'>PlayGround</a>
+            <li > <Link to='/playground'>PlayGround</Link>
             </li>
             <li>
-              <Link to='/pricing'>MarketPlace</Link>
+              <a href='https://worldtraveller-zldu.vercel.app/'>Map</a>
             </li>
             <li>
               <Link to='/journal'>Blogs</Link>
